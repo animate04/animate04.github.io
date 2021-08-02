@@ -8,14 +8,32 @@
 <channel>
 	<title>
 	Comentários sobre teste	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
-	<description></description>
-	<lastBuildDate>Sat, 13 Feb 2021 20:27:44 +0000</lastBuildDate>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Fri, 23 Jul 2021 20:26:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
-</channel>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
+		<link>/2021/07/23/ola-mundo/#comment-1</link>
+
+		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
+		<pubDate>Fri, 23 Jul 2021 20:26:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+
+					<description><![CDATA[Olá, isso é um comentário.
+Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
+Avatares de comentaristas vêm a partir do &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Olá, isso é um comentário.<br />
+Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.<br />
+Avatares de comentaristas vêm a partir do <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

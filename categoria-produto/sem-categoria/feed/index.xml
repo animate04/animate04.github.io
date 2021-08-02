@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sem categoria &#8211; teste</title>
+	<atom:link href="/categoria-produto/sem-categoria/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Sat, 31 Jul 2021 18:01:01 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Creme Facial Immortelle ECOCERT 50g &#8211; Arte dos Aromas</title>
+		<link>/produto/creme-facial-immortelle-ecocert-50g-arte-dos-aromas/</link>
+		
+		<dc:creator><![CDATA[jose]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 15:04:03 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=9728</guid>
+
+					<description><![CDATA[O Creme Facial combina o poder regenerativo do immortelle orgânico com o ácido hialurônico, atuando nas camadas mais profundas, hidratando, dando firmeza, nutrição e elasticidade. Protege a pele dos agentes poluentes. Para todos os tipos de pele. Não deixa a pele oleosa.]]></description>
+										<content:encoded><![CDATA[<p>O Creme Facial combina o poder regenerativo do immortelle orgânico com o ácido hialurônico, atuando nas camadas mais profundas, hidratando, dando firmeza, nutrição e elasticidade. Protege a pele dos agentes poluentes. Para todos os tipos de pele. Não deixa a pele oleosa.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
